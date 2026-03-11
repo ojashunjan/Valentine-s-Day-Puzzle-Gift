@@ -27,7 +27,6 @@ A interactive sliding puzzle website to ask someone to be your Valentine!
 
 2. **Change relevant strings**
    - Change the name to the name of your partner in the index code on line 628
-   - 
 
 4. **Deploy to GitHub Pages:**
    - Go to repository Settings
