@@ -49,6 +49,14 @@ A interactive sliding puzzle website to ask someone to be your Valentine!
 
 You can customize the messages in `index.html` (e.g. the greeting, completion text, and success stage).
 
+![alt text](image.png)
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
+
+![alt text](image-3.png)
+
 ---
 
 Made with ❤️ for Valentine's Day
