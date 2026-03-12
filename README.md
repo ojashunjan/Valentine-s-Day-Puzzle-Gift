@@ -36,7 +36,7 @@ A interactive sliding puzzle website to ask someone to be your Valentine!
    - Click Save
 
 5. **Share the link!**
-   - Your site will be at: `https://YOUR-USERNAME.github.io/valentine-puzzle/`
+   - Your site will be at: `https://your-username.github.io/Valentine-s-Day-Puzzle-Gift/`
 
 ## How It Works
 
